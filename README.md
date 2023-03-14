@@ -1,4 +1,4 @@
-# FdF
+# FdF <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt='c' height='40px' width='40px' title='c' />
 FdF is a project to learn about 3D programming in C language. The program takes a map as a parameter and creates its 3D representation.
 
 Example of a map file (42.fdf)
