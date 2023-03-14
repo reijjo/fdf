@@ -6,7 +6,7 @@
 /*   By: taitomer <taitomer@student.hive.fi>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/05/16 18:26:40 by taitomer          #+#    #+#             */
-/*   Updated: 2022/05/23 10:47:28 by taitomer         ###   ########.fr       */
+/*   Updated: 2023/03/14 13:42:07 by taitomer         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,7 +14,7 @@
 # define FDF_H
 
 # include "libft/libft.h"
-# include <mlx.h>
+# include "./filetintrasta/minilibx/mlx.h"
 # include <math.h>
 # include <stdlib.h>
 # include <fcntl.h>
