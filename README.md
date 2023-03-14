@@ -22,4 +22,5 @@ Bigger map (t2) <br />
 <img src="https://user-images.githubusercontent.com/95418273/224983031-e443fc10-a8f3-4965-8a55-5e95f294f99c.png" alt="t2" width="500" height="400">
 
 ### How to use:
-*
+* 'make re' on terminal
+* Usage: './fdf MAPNAME' (for example './fdf filetintrasta/fdf/maps/42.fdf')
